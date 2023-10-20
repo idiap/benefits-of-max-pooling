@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: Copyright © 2023 Idiap Research Institute <contact@idiap.ch>
+# SPDX-FileContributor: Kyle Matoba <kmatoba@idiap.ch>
+# SPDX-License-Identifier: BSD-3-Clause
+
+numpy
+matplotlib
+scipy
+seaborn
+sklearn
+torchvision
+torch==2.0.0
+hydra
+cvxpy
+# Install gurobipy as instructed on gurobi site
